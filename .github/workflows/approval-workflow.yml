@@ -9,6 +9,6 @@ jobs:
         env:
           APPROVALS: 1
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ADD_LABEL: Good 👍
+          ADD_LABEL: 👍
           
     
